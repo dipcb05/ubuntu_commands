@@ -1,0 +1,2 @@
+#if kernel corrupted due to pause from upgrade
+sudo dpkg --configure -a
