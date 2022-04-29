@@ -486,3 +486,5 @@ python -m SimpleHTTPServer
 cd -
 
 ------------------------------------------------------------------------------------
+#reconfigure paused package installations
+sudo dpkg --configure -a
